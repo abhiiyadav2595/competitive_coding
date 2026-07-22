@@ -12,6 +12,6 @@ public:
     int pop() { shift(); int v = out.top(); out.pop(); return v; }
 
     int peek() { shift(); return out.top(); }
-
-    bool empty() { return in.empty() && out.empty(); }
+    
+   bool empty() {return in.empty() && out.empty();}
 };
