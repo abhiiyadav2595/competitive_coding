@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0035-search-insert-position) |
+| [0084-largest-rectangle-in-histogram](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0219-contains-duplicate-ii](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0238-product-of-array-except-self) |
 | [1929-concatenation-of-array](https://github.com/abhiiyadav2595/competitive_coding/tree/master/1929-concatenation-of-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
