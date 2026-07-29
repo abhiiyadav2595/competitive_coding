@@ -23,7 +23,7 @@ public:
             prev = cur;
             cur = next;
         }
-
+        
         while (prev) {
             if (head->val != prev->val) return false;
             head = head->next;
