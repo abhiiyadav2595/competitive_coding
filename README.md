@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0219-contains-duplicate-ii](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhiiyadav2595/competitive_coding/tree/master/1352-product-of-the-last-k-numbers) |
 | [1929-concatenation-of-array](https://github.com/abhiiyadav2595/competitive_coding/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhiiyadav2595/competitive_coding/tree/master/1352-product-of-the-last-k-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0232-implement-queue-using-stacks) |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhiiyadav2595/competitive_coding/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -64,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhiiyadav2595/competitive_coding/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhiiyadav2595/competitive_coding/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
