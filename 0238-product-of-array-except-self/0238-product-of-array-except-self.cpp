@@ -12,7 +12,7 @@ public:
             answer[i] *= suffix;
             suffix *= nums[i];
         }
-
+          
         return answer;
     }
 };
