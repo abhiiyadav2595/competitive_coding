@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -75,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/abhiiyadav2595/competitive_coding/tree/master/1352-product-of-the-last-k-numbers) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
