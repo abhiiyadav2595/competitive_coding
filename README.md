@@ -97,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0945-minimum-increment-to-make-array-unique) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
