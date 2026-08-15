@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0053-maximum-subarray) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0011-container-with-most-water) |
 | [0234-palindrome-linked-list](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0392-is-subsequence) |
 ## Recursion
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0011-container-with-most-water) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0945-minimum-increment-to-make-array-unique) |
 ## Sorting
 |  |
