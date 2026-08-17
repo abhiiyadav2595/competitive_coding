@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0219-contains-duplicate-ii](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0238-product-of-array-except-self) |
+| [0875-koko-eating-bananas](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0875-koko-eating-bananas) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1352-product-of-the-last-k-numbers](https://github.com/abhiiyadav2595/competitive_coding/tree/master/1352-product-of-the-last-k-numbers) |
 | [1929-concatenation-of-array](https://github.com/abhiiyadav2595/competitive_coding/tree/master/1929-concatenation-of-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0035-search-insert-position) |
+| [0875-koko-eating-bananas](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
 | ------- |
