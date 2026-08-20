@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0084-largest-rectangle-in-histogram) |
+| [0169-majority-element](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0238-product-of-array-except-self) |
 | [0875-koko-eating-bananas](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0875-koko-eating-bananas) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
@@ -103,11 +105,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0169-majority-element) |
 | [0922-sort-array-by-parity-ii](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0922-sort-array-by-parity-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0945-minimum-increment-to-make-array-unique) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0169-majority-element) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0945-minimum-increment-to-make-array-unique) |
 ## Range Minimum/Maximum Query
 |  |
@@ -117,8 +121,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0048-rotate-image) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
