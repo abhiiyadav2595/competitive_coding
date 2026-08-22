@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0875-koko-eating-bananas) |
 | [0922-sort-array-by-parity-ii](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0922-sort-array-by-parity-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0268-missing-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/abhiiyadav2595/competitive_coding/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0268-missing-number) |
 | [0922-sort-array-by-parity-ii](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0922-sort-array-by-parity-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0945-minimum-increment-to-make-array-unique) |
 ## Counting
@@ -130,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
