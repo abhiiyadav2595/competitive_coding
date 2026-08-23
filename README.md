@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0414-third-maximum-number) |
 | [0875-koko-eating-bananas](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0875-koko-eating-bananas) |
 | [0922-sort-array-by-parity-ii](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0922-sort-array-by-parity-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0414-third-maximum-number) |
 | [0922-sort-array-by-parity-ii](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0922-sort-array-by-parity-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0945-minimum-increment-to-make-array-unique) |
 ## Counting
