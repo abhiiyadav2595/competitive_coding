@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0414-third-maximum-number) |
 | [0875-koko-eating-bananas](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0875-koko-eating-bananas) |
 | [0922-sort-array-by-parity-ii](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0922-sort-array-by-parity-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0011-container-with-most-water) |
 | [0234-palindrome-linked-list](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0392-is-subsequence) |
 | [0922-sort-array-by-parity-ii](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0922-sort-array-by-parity-ii) |
 ## Recursion
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0414-third-maximum-number) |
 | [0922-sort-array-by-parity-ii](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0922-sort-array-by-parity-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0945-minimum-increment-to-make-array-unique) |
