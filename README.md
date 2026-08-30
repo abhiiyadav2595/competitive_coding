@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1352-product-of-the-last-k-numbers](https://github.com/abhiiyadav2595/competitive_coding/tree/master/1352-product-of-the-last-k-numbers) |
 | [1929-concatenation-of-array](https://github.com/abhiiyadav2595/competitive_coding/tree/master/1929-concatenation-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/abhiiyadav2595/competitive_coding/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Simulation
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0011-container-with-most-water) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/abhiiyadav2595/competitive_coding/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sorting
 |  |
 | ------- |
