@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0169-majority-element](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0219-contains-duplicate-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0268-missing-number) |
 ## Database
 |  |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0176-second-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0185-department-top-three-salaries) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
