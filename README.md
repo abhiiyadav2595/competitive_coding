@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/abhiiyadav2595/competitive_coding/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0048-rotate-image) |
+| [0258-add-digits](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0268-missing-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/abhiiyadav2595/competitive_coding/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0078-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/abhiiyadav2595/competitive_coding/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
